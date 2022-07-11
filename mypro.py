@@ -1,3 +1,10 @@
 def add(a, b) :
-    return a + b
 
+    print(a+b)
+
+
+a = int(input())
+
+b = int(input())
+
+add(a, b)
